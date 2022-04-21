@@ -17,27 +17,29 @@
 
 ---
 
-<h4>
-    My loved dev skills
-</h4>
+## Professional Experience
 
-<div>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
-    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</div>
+Since 2017, I've been working professionally 
+as a Software Engineer through a wide range of
+programming languages, frameworks and platforms.
 
-<h4>
-    I'm also experienced and an enthusiast for
-</h4>
+### Front-end
 
-<div>
-    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-</div>
+- **React**: 5+ years of experience. I've worked with React in a wide range of **JavaScript** and **TypeScript** projects along with **Redux** and **Mobx** for state management, **Sass** and **Styled-Components** for styling, **Jest**, **Puppeteer** and **Testing-Library** for E2E and component testing, and many other resources like **WebPack**, **Grunt**, and **Gulp**.
+- **AngularJS**: 3+ years of experience. I've developed a complex web management system.
+
+### Back-end
+
+- **Django**: 5+ years of experience. I've worked with complex and performance-focused back-end systems, including a Rest API for data synchronization with mobile clients.
+- **NodeJS**: 2+ years of experience. I've contributed to couple projects along with **MongoDB**.
+
+### Mobile
+
+- **React Native**: 5+ years of experience. I've worked in a wide range of complex and performance-focused React Native projects with **Firebase**, **Realm Database** and **Mobx**. I've also designed and developed a solution for offline data synchronization.
+- **Android**: 1+ year of experience. I've developed a couple of personal and professional simple projects.
+
+## Hobbies & Contributions
+
+- **Speedy List**: A performance-focused list component for react native. Read more in the [project page](https://github.com/FSPinho/react-native-speedy-list) or in [the article](https://betterprogramming.pub/overcoming-list-performance-problems-in-react-native-fad40d87b14f).
+- **Lottie Files**: Check also my work on [Lottie Files](https://lottiefiles.com/felipe).
+
